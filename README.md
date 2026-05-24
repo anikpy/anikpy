@@ -1,44 +1,43 @@
 # Hi there, I'm Md Arifur Rahman Anik 👋
 
-[cite_start]I am a **Python Developer & ML-DevOps Engineer** with over 3 years of professional experience building scalable machine learning systems, intelligent backend APIs, and automated infrastructure[cite: 1, 9, 15]. [cite_start]I specialize in deploying open-source LLMs, building semantic search clusters, and managing containerized applications[cite: 74, 83, 102].
+[cite_start]I am a **Backend Engineer & ML-DevOps Specialist** with 3+ years of professional experience[cite: 1, 8, 15]. [cite_start]I bridge the gap between heavy-duty backend architectures and production-grade Machine Learning infrastructure[cite: 9, 10, 11].
 
 ---
 
 ### 🚀 Core Expertise
-* [cite_start]**Backend & API Engineering:** Developing robust APIs and production services using **Django, Django REST Framework, and FastAPI**[cite: 23, 24, 54].
-* [cite_start]**AI & Machine Learning Infrastructure:** Deploying open-source LLMs (Ollama, Llama2, Gemma, gpt-oss) and implementing **RAG pipelines, LangGraph, and Vector Embeddings** (FAISS, Pinecone)[cite: 23, 25, 26, 74, 77, 80, 88].
-* [cite_start]**Data Pipelines & Automation:** Architecting high-concurrency web scraping engines (**Scrapy, Selenium**) and automated workflows using **n8n**[cite: 32, 40, 71, 97].
-* [cite_start]**DevOps & Search Clusters:** Managing multi-node **Elasticsearch** clusters and orchestrating containerized environments via **Docker, Kubernetes, Jenkins, and Nginx**[cite: 31, 46, 47, 49, 83, 101].
+
+* [cite_start]**Backend Architectures:** Building scalable APIs and multi-tenant systems using **Django, DRF, and FastAPI**[cite: 21, 24, 54].
+* [cite_start]**Production AI/ML:** Deploying open-source LLMs (`gpt-oss`, `Gemma`, `Llama2`) and implementing RAG workflows[cite: 25, 74, 77, 88].
+* [cite_start]**DevOps & Infrastructure:** Orchestrating systems via **Docker, Kubernetes, Jenkins, and Nginx**[cite: 31, 46, 47, 49].
+* [cite_start]**Data Engineering:** Designing 3-node **Elasticsearch clusters** and high-concurrency scraping engines (**Scrapy, Selenium**)[cite: 40, 83, 97].
 
 ---
 
-### 🛠️ Detailed Tech Stack
+### 🛠️ Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages & Frameworks** | [cite_start]Python, Django, Django REST Framework, FastAPI, Flask [cite: 23, 24, 54, 55] |
-| **AI / ML / NLP** | [cite_start]LangChain, LangGraph, TensorFlow, PyTorch, Keras, BERT, OpenCV [cite: 23, 29, 30, 33, 34, 36] |
-| **Vector DB & Search** | [cite_start]Elasticsearch, Kibana, FAISS, Pinecone [cite: 26, 63, 85] |
-| **DevOps & Infra** | [cite_start]Docker, Kubernetes, Jenkins, ArgoCD, Terraform, Nginx, Apache [cite: 31, 46, 47, 49, 50, 51, 91] |
-| **Automation & Pipelines** | [cite_start]Scrapy, Selenium, n8n, Redis Caching, ETL/ELT [cite: 32, 40, 52, 53, 103] |
-| **Databases** | [cite_start]PostgreSQL [cite: 64] |
+| **Backend & APIs** | [cite_start]Python, Django, Django REST Framework, FastAPI, Flask [cite: 22, 23, 24, 54, 55] |
+| **AI / ML / NLP** | [cite_start]LangGraph, LangChain, TensorFlow, PyTorch, Vector Embeddings (FAISS, Pinecone) [cite: 23, 26, 29, 34] |
+| **DevOps & Cloud** | [cite_start]Docker, Kubernetes, Jenkins, ArgoCD, Terraform, Nginx, Apache [cite: 31, 46, 47, 49, 50, 51, 91] |
+| **Data Pipelines** | [cite_start]Elasticsearch, Scrapy, Selenium, n8n Automation, PostgreSQL [cite: 40, 52, 63, 64, 83] |
 
 ---
 
-### 💻 Key Production Milestones
+### 💻 Key Production Achievements
 
-* [cite_start]**Production LLM Deployments:** Deployed `gpt-oss (20b)`, `Gemma 4B`, and `Llama2` architectures utilizing Ollama and Nginx for CV parsing, image explanation, and content refactoring[cite: 74, 77, 88].
-* [cite_start]**Distributed Search Systems:** Engineered a 3-Node **Elasticsearch Cluster** with advanced semantic search capabilities using custom keywords and vector embeddings[cite: 83, 86, 87].
-* [cite_start]**Infrastructure at Scale:** Guided and managed containerized deployments for over 50 applications using Kubernetes, Nginx, Apache, and Jenkins CI/CD pipelines[cite: 91, 92, 101].
-* [cite_start]**Massive Data Ingestion:** Developed a scalable scraping framework that processed and ingested data from over 500+ dynamic websites using Scrapy and Selenium[cite: 97, 98, 99].
-
----
-
-### 📈 Current Technical Focus
-* 🛡️ Architecting a multi-tenant Pharmacy Management SaaS platform using Django.
-* [cite_start]🤖 Designing advanced multi-agent system states using LangGraph[cite: 23].
-* ⚙️ Writing custom automated deployment scripts for Ubuntu Linux environments.
+* [cite_start]**LLM Deployment:** Engineered and deployed `gpt-oss (20b)` and `Gemma 4B` models in production for automated CV parsing and image explanation[cite: 74, 76, 77, 79].
+* [cite_start]**Distributed Search:** Built a 3-Node **Elasticsearch Cluster** with advanced semantic search capabilities using custom keywords and vector embeddings[cite: 83, 86, 87].
+* [cite_start]**Scalable Infrastructure:** Managed and optimized containerized deployments for **50+ applications** across Kubernetes and Nginx/Apache servers[cite: 92, 102].
+* [cite_start]**Data Ingestion:** Developed a web scraping architecture that processed data from **500+ dynamic websites** using Scrapy and Selenium[cite: 97, 98, 99].
 
 ---
 
-> *"Focused on building robust backend systems, optimizing server workloads, and bringing AI models out of notebooks into production."*
+### 📈 Current Focus
+* 🛡️ Building a production-grade multi-tenant Pharmacy Management SaaS platform using Django.
+* 🤖 Experimenting with stateful multi-agent system workflows using LangGraph.
+* ⚙️ Optimizing system workloads and automated server deployment scripts in Ubuntu Linux environments.
+
+---
+
+> *"Focused on clean architecture, server optimization, and moving AI models out of notebooks into production."*
